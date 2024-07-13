@@ -1,4 +1,4 @@
-# [PaHa's Attack Model](wiki) (PaHaAm)
+# [PaHa's Attack Model](/../../wiki) (PaHaAm)
 
 This model is an example about cyber attacker, containing military cyber unit's:
 * organization
